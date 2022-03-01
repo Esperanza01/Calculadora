@@ -23,6 +23,10 @@ public class Calculadora {
         return result;
     }
     
+    /*Realizar cambios en la clase Calculadora directamente en el repositorio de GitHub (por ejemplo,
+añadiendo un comentario). Actualizar los cambios en la copia local y comprobar que los cambios se
+han actualizado. Hacer capturas de todo el proceso.*/
+    
     public int resta(){
         int result;
         if (resta2())   result = num1-num2;
