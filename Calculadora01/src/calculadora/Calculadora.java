@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -22,7 +22,7 @@ public class Calculadora {
         int result=num1+num2;
         return result;
     }
-    
+    /*dklhslkf*/
     /*Realizar cambios en la clase Calculadora directamente en el repositorio de GitHub (por ejemplo,
 añadiendo un comentario). Actualizar los cambios en la copia local y comprobar que los cambios se
 han actualizado. Hacer capturas de todo el proceso.*/
