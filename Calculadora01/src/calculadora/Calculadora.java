@@ -17,7 +17,7 @@ public class Calculadora {
         num1=a;
         num2=b;
     }
-    
+    /* ggdh*/
     public int suma(){
         int result=num1+num2;
         return result;
