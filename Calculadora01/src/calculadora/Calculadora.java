@@ -44,6 +44,9 @@ han actualizado. Hacer capturas de todo el proceso.*/
         return result;
     }
     
+    
+    /*ej8*/
+    
     public int divide(){
         int result=num1/num2;
         return result;
